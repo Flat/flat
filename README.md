@@ -1,6 +1,6 @@
 Hi there! I'm Flat.
 
-I currently work on the [Serenity](https://github.com/serenity-rs/serenity) and [Tachiyomi](https://github.com/inorichi/Tachiyomi) projects.
+I currently work on the [Serenity](https://github.com/serenity-rs/serenity) project.
 
 Right now I'm interested in learning 3D modeling with [Blender](https://www.blender.org/) to create my own chracters.
 
